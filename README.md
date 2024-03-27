@@ -1,5 +1,4 @@
 # exam_java
-Javada standart funksional interfacelarning bir qancha turlari mavjud:
 
 1. `Runnable`: Bu interfeys no argumentli va void tipdagi `run()` metodi bor.
 
